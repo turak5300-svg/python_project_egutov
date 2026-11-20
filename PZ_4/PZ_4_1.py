@@ -1,9 +1,9 @@
-qqq = float(input('qqq = '))
-www = int(input('www = '))
-eee = 1.0
-for _ in range(www):
-    eee *= qqq
-print('qqq^www =', eee)
+a = float(input('a = '))
+n = int(input('n = '))
+e = 1.0
+for _ in range(n):
+    e *= a
+print('a^n =', e)
 
 @echo off title Zapysk program
 echo Zapyskay...
